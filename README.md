@@ -11,7 +11,7 @@ O Projeto Anna Bella faz parte do Curso Desenvolvimento Web Completo Ministrado 
 <img src="imagens/home.png">
 
 ## Biografia: 
-<img src="imagens/Biografia.png">
+<img src="imagens/biografia.png">
 
 ## Campanhas Publicitárias: 
 <img src="imagens/campanhas.png">
