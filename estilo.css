@@ -15,7 +15,7 @@ body{
 }
 
 #capa{
-    height: 60%;
+    min-height: 60%;
     width: 64%;
     background-image: url(imagens/capa.png);
     background-repeat: no-repeat;
@@ -62,7 +62,7 @@ h2{
 }
 
 #rodape{
-    height: 8%;
+    min-height: 8%;
     width: 64%;
     font-weight: bold;
     text-align: center;
